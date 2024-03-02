@@ -14,7 +14,8 @@ option (gogoproto.sizer_all) = true;
 
 // https://github.com/kvaughan78/kv_berty/
 // https://github.com/kvaughan78/
-// https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
+// import from https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
+import "https://githib.com/kvaughan78/test.repo"
 // /!\ UNARY SUPPORT ONLY /!\
 service BridgeService {
   // ClientInvokeUnary invoke a unary method
