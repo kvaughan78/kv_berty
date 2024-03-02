@@ -12,7 +12,9 @@ option (gogoproto.unmarshaler_all) = true;
 option (gogoproto.sizer_all) = true;
 
 
-// BridgeService used to create advanced grpc transport
+// https://github.com/kvaughan78/kv_berty/
+// https://github.com/kvaughan78/
+// https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
 // /!\ UNARY SUPPORT ONLY /!\
 service BridgeService {
   // ClientInvokeUnary invoke a unary method
